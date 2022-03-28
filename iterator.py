@@ -18,7 +18,7 @@ class Data:
         
         
 num1 = int(input('Enter first value: '))
-num2 =int(input('Enter second, higher value: '))
+num2 = int(input('Enter second, higher value: '))
 
 
 for i in Data(num2, num1):
